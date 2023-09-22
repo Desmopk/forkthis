@@ -1,4 +1,4 @@
-<h1 align="center">Fork This  - CSI</h1>
+<h1 align="center">Fork This (Commit) - CSI</h1>
 <p align="center"><i>An awesome event to learn git and github</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
